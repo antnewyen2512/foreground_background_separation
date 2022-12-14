@@ -69,16 +69,6 @@ class CbShell(object):
                     print(' ** missing parameter value for [--name], please provide a value for this parameter')
                 else:
                     exe.name = li[index+1]
-            ##elif li[index] == '--alpha':
-            #    if index+1 >= len(li):
-            #        print(' ** missing parameter value for [--alpha], please provide a value for this parameter, or omit')
-            #    else:
-            #        exe.alpha = float(li[index+1])
-            #elif li[index] == '--beta':
-            #    if index+1 >= len(li):
-            #        print(' ** missing parameter value for [--beta], please provide a value for this parameter, or omit')
-            #    else:
-            #        exe.beta = float(li[index+1])
             else:
                 print(' ** invalid parameter: [{}]'.format(li[index]))
                 break
