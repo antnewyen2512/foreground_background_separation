@@ -9,14 +9,14 @@
 
 ## Run the program
 - run the program with the following command:
-    `pythom src/main.py`
+`pythom src/main.py`
 - then a shell cursor will appear in the terminal such as `>>`
 
-- Train the model (# = numbers)
-    `train --source Video1.MOV --name model(#)`
+- Train the model (# = numbers):
+`train --source Video1.MOV --name model(#)`
 
-- Perform the background subtraction (# = numbers)
-    `separate --source Video2.MOV --model model(#).json --out Output(#)`
+- Perform the background subtraction (# = numbers):
+`separate --source Video2.MOV --model model(#).json --out Output(#)`
 
 ## Models and output files
 - Models are located in the model folder and in json format.
