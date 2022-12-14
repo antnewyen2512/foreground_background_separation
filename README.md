@@ -22,4 +22,4 @@
 - Models are located in the model folder and in json format.
 - Output files are located in the output folder.
 
-## Note: I left a trained model and an output in the repo, just in case we need it. Otherwise, feel free to train a new model and separate it using the provided command above (change # to avoid duplication). 
+# Note: I left a trained model and an output in the repo, just in case we need it. Otherwise, feel free to train a new model and separate it using the provided command above (change # to avoid duplication). 
