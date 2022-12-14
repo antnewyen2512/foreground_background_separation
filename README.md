@@ -23,5 +23,5 @@
 - Output files are located in the output folder.
 
 ### Note: I left a trained model and an output in the repo, just in case we need it. Otherwise, feel free to train a new model and separate it using the provided command above (change # to avoid duplication). 
-### Screenshot of running the code:
+### Screenshot of running the code correctly (Using VSCode terminal):
 ![image](https://user-images.githubusercontent.com/44595772/207500586-8fc6f9c0-433a-46ea-928f-c3e74bbaa9a5.png)
