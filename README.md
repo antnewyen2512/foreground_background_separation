@@ -24,4 +24,5 @@
 
 ### Note: I left a trained model and an output in the repo, just in case we need it. Otherwise, feel free to train a new model and separate it using the provided command above (change # to avoid duplication). 
 ### Screenshot of running the code correctly (Using VSCode terminal):
-![image](https://user-images.githubusercontent.com/44595772/207500586-8fc6f9c0-433a-46ea-928f-c3e74bbaa9a5.png)
+![image](https://user-images.githubusercontent.com/44595772/207503604-e9fecb45-c9e9-4b1b-a493-5d9b1d3623b8.png)
+
